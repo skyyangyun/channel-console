@@ -1,0 +1,9 @@
+{
+  "name": "channel-console",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": ["console"],
+  "author": "Yang Yun",
+  "license": "ISC"
+}
