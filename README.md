@@ -1,4 +1,5 @@
-# Channel Console ![npm](https://img.shields.io/npm/v/channel-console)
+# Channel Console [![npm](https://img.shields.io/npm/v/channel-console)](https://www.npmjs.com/package/channel-console)
+
 ## Install
 As ES module:
 ```html
